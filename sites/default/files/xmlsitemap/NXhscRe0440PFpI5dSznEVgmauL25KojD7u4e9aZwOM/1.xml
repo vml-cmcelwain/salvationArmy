@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="//salvationarmy.local/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://salvationarmy.local/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>https://salvationarmy.local/feature/get-involved</loc><lastmod>2016-01-05T21:49Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>https://salvationarmy.local/feature/services-programs</loc><lastmod>2016-01-05T21:49Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>https://salvationarmy.local/feature/thrift-store</loc><lastmod>2016-01-05T21:49Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>https://salvationarmy.local/event/test-event-0</loc><lastmod>2016-01-06T15:32Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>https://salvationarmy.local/event/test-event-1</loc><lastmod>2016-01-06T00:23Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>https://salvationarmy.local/event/test-event-2</loc><lastmod>2016-01-06T00:23Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>https://salvationarmy.local/event/test-event-3</loc><lastmod>2016-01-06T00:23Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>https://salvationarmy.local/event/test-event-4</loc><lastmod>2016-01-06T00:23Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>https://salvationarmy.local/event/test-event-5</loc><lastmod>2016-01-06T00:23Z</lastmod><changefreq>daily</changefreq></url>
+</urlset>
